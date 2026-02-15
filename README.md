@@ -101,7 +101,9 @@ cdremel -i #Ignore All Exclusions
 
 ## Media
 
-[▶ Click to watch (with sound)](https://github.com/howtoedittv/dremel/releases/download/usermedia/showing.mp4)
+[ Click to watch (with sound)](https://github.com/howtoedittv/dremel/releases/download/usermedia/showing.mp4)
+
+[ Click to view ] (https://github.com/howtoedittv/dremel/releases/download/usermedia/showing.png)
 
 ## License
 
