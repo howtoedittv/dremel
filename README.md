@@ -11,10 +11,10 @@ applications are running.
 
 This repository includes three main components:
 
--   **cdremel** -- Core program responsible for playback, rule handling,
+-   **cdremel**  Core program responsible for playback, rule handling,
     exclusions, and options
--   **dremel** -- Launcher that runs `cdremel` in the background
--   **dremel-kill** -- Stops all running `cdremel` instances
+-   **dremel**  Launcher that runs `cdremel` in the background
+-   **dremel-kill**  Stops all running `cdremel` instances
 
 ------------------------------------------------------------------------
 
