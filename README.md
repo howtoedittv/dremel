@@ -32,16 +32,27 @@ Build and install:
 ``` bash
 make install
 ```
+Initialize(no mpv installed on system):
 
-Run in background:
+```bash
+cdremel init
+Move Your Songs To ~/Music/background
+```
+Initialize(mpv installed on system):
+
+```bash
+Mkdir ~/Music/background
+Move Your Songs To ~/Music/background
+```
+Runing:
 
 ``` bash
 dremel
 ```
 
-Close the terminal --- it will keep running.
+If You Happen To Close the terminal --- it will keep running.
 
-Stop playback:
+To Stop playback(Run In Terminal):
 
 ``` bash
 dremel-kill
@@ -72,8 +83,9 @@ All supported audio files in this directory will be played sequentially.
 Example:
 
 ``` bash
-cdremel --add-exclusion brave
-cdremel -i
+cdremel --add-exclusion vlc //Added Vlc To The List Of Apps That Music Is Silent In
+cdremel --remove-exclusion vlc //Removed Vlc From The List Of Apps That Music Is Silent In
+cdremel -i #Ignore All Exclusions
 ```
 
 ------------------------------------------------------------------------
