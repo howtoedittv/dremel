@@ -108,9 +108,10 @@ cdremel -i #Ignore All Exclusions
 
 if you desire to get sample music (some caribou songs) you can do the following commends:
 ```bash
-cd ~/Music
-rm -rf background
+cd ~
 git clone https://github.com/howtoedittv/dremel-sample-music
+rm -rf Music/background
+mv dremel-sample-music/background Music/
 ```
 
 ## License
