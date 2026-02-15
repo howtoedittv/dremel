@@ -99,6 +99,10 @@ cdremel -i #Ignore All Exclusions
 
 ------------------------------------------------------------------------
 
+## Demo
+
+[▶ Click to watch (with sound)](showcase/videos/showing.mp4)
+
 ## License
 
 MIT License © 2026 howtoedittv
