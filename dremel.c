@@ -32,7 +32,7 @@ int main(int argc, char *argv[]) {
     open("/dev/null", O_WRONLY);
 
     
-    execl("/home/$USER/.local/bin/cdremel", "cdremel", NULL);
+    execl("/home/barry.local/bin/cdremel", "cdremel", NULL);
 
     
     exit(1);
