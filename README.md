@@ -19,6 +19,7 @@ This repository includes three main components:
 ------------------------------------------------------------------------
 
 ## Getting Started (Linux)
+### remember to add ~/.local/bin to your path 
 
 Clone the repository:
 
