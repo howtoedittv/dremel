@@ -111,7 +111,7 @@ if you desire to get sample music (some caribou songs) you can do the following 
 cd ~/Music
 rm -rf background
 git clone https://github.com/howtoedittv/dremel-sample-music
-
+```
 
 ## License
 
